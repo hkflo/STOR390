@@ -3,6 +3,7 @@ This is a repository of assignments for the UNC course STOR390. It will be used 
 
 ## Software
 Our class will be using R for computation.
+
 For mac: https://cran.r-project.org/bin/macosx/
 
 For windows: https://cran.r-project.org/bin/windows/base/
